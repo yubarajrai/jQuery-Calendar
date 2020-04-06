@@ -14,9 +14,12 @@ Author: Yubaraj Rai
 
 
   ```
-  <!-- Include iCalendar CSS File -->
-  <script src="https://code.jquery.com/jquery-2.2.4.min.js"
+  <!-- Include jQuery Library -->
+   <script src="https://code.jquery.com/jquery-2.2.4.min.js"
             integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+            
+            
+  <!-- Include iCalendar CSS File -->
     <link rel="stylesheet" href="./javascript-calendar.css" type="text/css">
 
   <!-- Structure Textarea -->
